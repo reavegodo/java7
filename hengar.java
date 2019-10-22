@@ -4,7 +4,7 @@ public class Hangar {
 
     public static void main(String[] args) {
 
-        Car cooper = new Car("Mini Cooper", 12345);
+        Car cooper = new Car("Batmobile", 12345);
         System.out.println(cooper.doStuff());
 
         Boat titanic = new Boat("Titanic", 54321);
